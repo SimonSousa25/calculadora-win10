@@ -1,0 +1,1 @@
+window.calculadora = new CalcController(); // A variável calculadora, é uma nova instância da classe CalcController
